@@ -1,13 +1,13 @@
 # Flutter Events
 This App is a schedule app for conferences and large events. A user can easily access the schedule of the event they are attending and the organizers do not need to code at all to make this happen.
 
-![App Demo](FlutterEvents.gif)
+![App Demo](FlutterEvent1.gif) ![App Demo](FlutterEvent2.gif)
 
 ## Ideal Use Case
 The ideal use case of this app is that a user is going to a conference and they would like to have the schedule of the conference on their phone. The conference organiser would need to put a QR code somewhere(booklet, id-badge, website). The user would pull out their device and scan the QR code, and they would have the schedule of the event. On the part of the event organisers, they would only need to create a json file(like the sample) that has all of the data, host it somewhere(like http://myjson.com/) and create a qr code(using something like https://www.qr-code-generator.com/). This is all they would need to have their own conference app (zero coding required). There are plenty of customization available through the json file to personalize the schedule.
 
 ## How to Use the App(User)
-When you open the app you will see a button to scan the qr code. When you click it, your camera will open can you can scan a qr code(If there is an error page, please quit the app, restart, and try again). Note that internet access is required for this app. Once the data is loaded, you will see the schedule of your event. Once you scan your app, the event will be remembered so next time you open the app, you will see your event. If you want to scan a different qr from the event page, just click the camera at the top right hand corner and the camera will be opened and you can scan the qr code for a different event.
+When you open the app you will see a button to scan the qr code. When you click it, your camera will open can you can scan a qr code(If there is an error page, please quit the app, restart, and try again). Note that internet access is required for this app. Once the data is loaded, you will see the schedule of your event. Once you scan your app, the event will be remembered so next time you open the app, you will see your event(no internet needed for this). If you want to scan a different qr from the event page, just click the camera at the top right hand corner and the camera will be opened and you can scan the qr code for a different event.
 
 ## How to Set up the Qr code(Event Organiser)
 Create a JSON File based on sample_json.json included in the zip file. That file will explain what each field is expecting. You can customize the theme by your choice of font, colors, and brightness. Once you have created the json file, it should be hosted at some url. The qr code should be a link to that url.
