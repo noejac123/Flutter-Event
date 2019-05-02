@@ -1,0 +1,45 @@
+{
+  "primary color"  :"#0C8346",
+  "accent color"  :"#86E7B8",
+  "background color"  :"#FDFFFC" ,
+  "icon color"  :"#FCEFEF",
+  "app title":"App Title",
+  "brightness" :"light",
+  "font": "https://github.com/google/fonts/raw/master/ofl/pacifico/Pacifico-Regular.ttf",
+  "tabs": [{
+    "tab title": "Monday",
+    "items": [
+      {
+        "time": "\nMorning\n",
+        "event title": "First Event",
+        "description": "The first event is here"
+      },
+      {
+        "time": "\nEvening\n",
+        "event title": "Second Event",
+        "description": "The second event is here"
+      }
+    ]
+  },
+    {
+      "tab title": "Tuesday",
+      "items": [
+        {
+          "time": "\nMorning\n",
+          "event title": "Third event",
+          "description": "The third event is here"
+        },
+        {
+          "time": "\nAfternoon\n",
+          "event title": "Fourth Event",
+          "description": "The fourth event is here"
+        },
+        {
+          "time": "\nEvening\n",
+          "event title": "Fifth Event",
+          "description": "The fifth event is here"
+        }
+      ]
+    }
+  ]
+}

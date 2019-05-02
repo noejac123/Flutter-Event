@@ -1,0 +1,90 @@
+{
+  "primary color"  :"#FFFFFF",
+  "accent color"  :"#4285F4",
+  "background color"  :"#FFFFFF",
+  "icon color"  :"#F4B400",
+  "app title":"Google I/O 2018",
+  "brightness" :"light",
+  "font": "https://github.com/google/fonts/raw/master/apache/roboto/Roboto-Regular.ttf",
+  "tabs": [{
+    "tab title": "Day 1",
+    "items": [
+      {
+        "time": "11:20\nAM",
+        "event title": "Keynote Party",
+        "description": "Event 1 of Tab 1"
+      },
+      {
+        "time": "12:00\nPM",
+        "event title": "Google Key Note",
+        "description": "Tue, May 8 / 1 hour/ Location 1"
+      },
+      {
+        "time": "1:30\nPM",
+        "event title": "Flutter Cupertino",
+        "description": "Tue, May 8 / 1 hour / Location 2"
+      },
+      {
+        "time": "1:30\nPM",
+        "event title": "Code Labs",
+        "description": "Tue, May 8 / 1 hour / Location 5"
+      },
+      {
+        "time": "2:45\nPM",
+        "event title": "Developer Keynote",
+        "description": "Tue, May 8 / 1 hour / Location 3"
+      },
+      {
+        "time": "4:00\nPM",
+        "event title": "Flutter Apps",
+        "description": "Tue, May 8 / 1 hour / Location 7"
+      }
+    ]
+  },
+    {
+      "tab title": "Day 2",
+      "items": [
+        {
+          "time": "10:30\nAM",
+          "event title": "UI with Flutter",
+          "description": "Wed, May 9 / 1 hour / Location Stage"
+        },
+        {
+          "time": "4:30\nPM",
+          "event title": "Super Web Development",
+          "description": "Wed, May 9 / 1 hour / Location Stage"
+        },
+        {
+          "time": "8:30\nPM",
+          "event title": "Flutter Fun Stuff",
+          "description": "Wed, May 9 / 1 hour / Location Office"
+        }
+      ]
+    },
+    {
+      "tab title": "Day 3",
+      "items": [
+        {
+          "time": "10:30\nAM",
+          "event title": "Widgets, Widgets, and Widgets",
+          "description": "Thu, May 10 / 1 hour / Location 2"
+        },
+        {
+          "time": "10:30\nAM",
+          "event title": "Codelabs",
+          "description": "Thu, May 10 / 1 hour / Location 1"
+        },
+        {
+          "time": "12:30\nPM",
+          "event title": "Android Studio and Vs Code",
+          "description": "Thu, May 10 / 1 hour / Location 6"
+        },
+        {
+          "time": "5:30\nPM",
+          "event title": "Firebase and Flutter",
+          "description": "Thu, May 10 / 1 hour / Location Stage"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "primary color"  :"#FFFFFF : Primary color(App Bar) of the app. It must be given in hex.",
+  "accent color"  :"#4285F4 : Accent Color(dividers and secondary elements.) It must be given in hex ",
+  "background color"  :"#FFFFFF : The color of the list items. It must be given in hex" ,
+  "icon color"  :"#F4B400 : The color of the star Icon",
+  "app title":"App Title : The top title of the app, it must be a string",
+  "brightness" :"light : The brightness theme. It must either be the string light or dark",
+  "font": "https://github.com/google/fonts/raw/master/apache/roboto/Roboto-Regular.ttf : The font that will be used. Can take the link of any ttf file only as a string",
+  "tabs": [{
+    "tab title": "Tab 1 : The Title of the Tab ",
+    "items": [
+      {
+      "time": "10:00: Time of  event. It must be given as a string though no format required",
+      "event title": "Event 1 : Title of the Event. Must be given as a string",
+      "description": "Tab 1 Event 1 Details: Description of event. Must be given as a string"
+      },
+      {
+        "time": "11:00",
+        "event title": "Event 2",
+        "description": "Event 2 of Tab 1"
+      }
+    ]
+  },
+    {
+      "tab title": "Tab 2",
+      "items": [
+        {
+          "time": "10:30",
+          "event title": "Event 1",
+          "description": "Event 1 of tab 2"
+        },
+        {
+          "time": "4:30\nPM",
+          "event title": "Event 2",
+          "description": "Event 2 of tab 2"
+        },
+        {
+          "time": "8:30\nPM",
+          "event title": "Event 3",
+          "description": "Event 3 of tab 2"
+        }
+      ]
+    }
+  ]
+}

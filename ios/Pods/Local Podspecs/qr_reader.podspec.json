@@ -1,0 +1,26 @@
+{
+  "name": "qr_reader",
+  "version": "0.0.1",
+  "summary": "Flutter Plugin for QR Reader",
+  "description": "Flutter Plugin for QRCode Reader",
+  "homepage": "https://github.com/PonnamKarthik",
+  "license": {
+    "file": "../LICENSE"
+  },
+  "authors": {
+    "Ponnam Karthik": "ponnamkarthik3@gmail.com"
+  },
+  "source": {
+    "path": "."
+  },
+  "source_files": "Classes/**/*",
+  "public_header_files": "Classes/**/*.h",
+  "dependencies": {
+    "Flutter": [
+
+    ]
+  },
+  "platforms": {
+    "ios": "8.0"
+  }
+}

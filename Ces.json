@@ -1,0 +1,90 @@
+{
+  "primary color"  :"#272728",
+  "accent color"  :"#44c8f4",
+  "background color"  :"#272728",
+  "icon color"  :"#858585",
+  "app title":"CES 2019",
+  "brightness" :"dark",
+  "font": "https://github.com/google/fonts/raw/master/ofl/oswald/Oswald-Regular.ttf",
+  "tabs": [{
+    "tab title": "Mon\n7",
+    "items": [
+      {
+        "time": "\n8-11 AM\n",
+        "event title": "Hover Boards",
+        "description": "Laguna Bay Area"
+      },
+      {
+        "time": "\n12-1 PM\n",
+        "event title": "Electric Cars",
+        "description": "Sunset Boulevard"
+      },
+      {
+        "time": "\n1-3 PM\n",
+        "event title": "Lightsaber Technology",
+        "description": "Century Falcon"
+      },
+      {
+        "time": "\n3-5 PM\n",
+        "event title": "Phones 3 Notches",
+        "description": "West Side"
+      },
+      {
+        "time": "\n5-6 PM\n",
+        "event title": "Camera and Stands",
+        "description": "Scenic Drive Point"
+      },
+      {
+        "time": "\n10-11 PM\n",
+        "event title": "Flutter Apps",
+        "description": "Cloud 9"
+      }
+    ]
+  },
+    {
+      "tab title": "Tue\n8",
+      "items": [
+        {
+          "time": "\n7-9 AM\n",
+          "event title": "Self Cooking Eggs",
+          "description": "Waffle House"
+        },
+        {
+          "time": "\n9-11 AM\n",
+          "event title": "Manual Bicycles",
+          "description": "Bay Area"
+        },
+        {
+          "time": "\n3-5 PM\n",
+          "event title": "Self Winding Watches",
+          "description": "Golden Gate Bridge"
+        }
+      ]
+    },
+    {
+      "tab title": "Wed\n9",
+      "items": [
+        {
+          "time": "\n1-5 PM\n",
+          "event title": "Rocket Ship Expo",
+          "description": "The Grassy Area Near I-45"
+        },
+        {
+          "time": "\n5-6 PM\n",
+          "event title": "Coding Help",
+          "description": "The IT Shop Down the Street"
+        }
+      ]
+    },
+    {
+      "tab title": "Thu\n10",
+      "items": [
+        {
+          "time": "\n8-10 AM\n",
+          "event title": "Aggie Time",
+          "description": "Rudder Tower"
+        }
+      ]
+    }
+  ]
+}
