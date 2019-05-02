@@ -1,6 +1,8 @@
 # Flutter Events
 This App is a schedule app for conferences and large events. A user can easily access the schedle of the event they are attending and the organizers do not need to code at all to make this happen.
 
+![](FlutterEvents.gif)
+
 ## Ideal Use Case
 The ideal use case of this app is that a user is going to a conference and they would like to have the schedule of the conference on their phone. The conference organiser would need to put a QR code somewhere(booklet, idbadge, website). The user would pull out their device and scan the QR code, and they would have the schedule of the event. On the part of the event organisers, they would only need to create a json file(like the sample) that has all of the data, host it somewhere(like http://myjson.com/) and create a qr code(using somehting like https://www.qr-code-generator.com/). This is all they would need to have their own conference app (zero coding required). There are plenty of customizeing available through the json file to personalize your schedule.
 
